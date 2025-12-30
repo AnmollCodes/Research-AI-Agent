@@ -4,8 +4,6 @@
 # 🧠 ISEA v2.0 PRO
 ### Introspective Self-Evolving Autonomous Agent
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0ZmZ0/3o7btQ8jDk7q8jDk7q/giphy.gif" width="100%" alt="ISEA Agent Banner" />
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Powered-orange.svg)](https://langchain-ai.github.io/langgraph/)
@@ -189,6 +187,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ### Built with ❤️ and 🧠 by Anmol Agarwal
 
-[LinkedIn](https://www.linkedin.com/in/anmol-agarwal-8b7b2b1b3/) • [Twitter](https://twitter.com/AnminTheWild) • [GitHub](https://github.com/AnmollCodes)
+[LinkedIn](https://www.linkedin.com/in/anmol-agarwal25) • [Twitter](https://twitter.com/AgarwalA25) • [GitHub](https://github.com/AnmollCodes)
 
 </div>
