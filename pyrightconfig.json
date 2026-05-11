@@ -1,0 +1,30 @@
+{
+  "typeCheckingMode": "basic",
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownParameterType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownLambdaType": false,
+  "reportMissingParameterType": false,
+  "reportUntypedFunctionDecorator": false,
+  "reportUntypedBaseClass": false,
+  "reportUnusedImport": false,
+  "reportOperatorIssue": false,
+  "reportReturnType": false,
+  "reportArgumentType": false,
+  "reportIndexIssue": false,
+  "reportCallIssue": false,
+  "reportAttributeAccessIssue": false,
+  "pythonVersion": "3.11",
+  "venvPath": ".",
+  "venv": ".venv",
+  "exclude": [
+    "**/__pycache__",
+    "node_modules",
+    "zapier-service",
+    "frontend",
+    ".venv"
+  ]
+}
